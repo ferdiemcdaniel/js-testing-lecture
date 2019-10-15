@@ -1,0 +1,19 @@
+{
+  "name": "js-testing-lecture",
+  "version": "0.0.1",
+  "description": "JavaScript Testing Lecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdiemcdaniel/js-testing-lecture.git"
+  },
+  "author": "Ferdinand McDaniel A. Amano (ferdiemcdaniel)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdiemcdaniel/js-testing-lecture/issues"
+  },
+  "homepage": "https://github.com/ferdiemcdaniel/js-testing-lecture#readme"
+}
