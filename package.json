@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ferdiemcdaniel/js-testing-lecture/issues"
   },
-  "homepage": "https://github.com/ferdiemcdaniel/js-testing-lecture#readme"
+  "homepage": "https://github.com/ferdiemcdaniel/js-testing-lecture#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
